@@ -5,6 +5,8 @@ The game is played with three possible hand signals that represent a rock, paper
 
 Rock wins against scissors, paper wins against rock, and scissors wins against paper. If both players throw the same hand signal, it is considered a tie, and play resumes until there is a clear winner.
 
+### **_NOTE:_**  If you wan to see full commit history please do refer [rock-paper-scissors](https://github.com/Aleksandyr/rock-paper-scissors).
+
 ## Tech stack
 **`React`** | **`Typescript`** | **`Redux-Toolkit`** | **`Redux-saga`** | **`Express`** | **`Sqlite`**
 ## How to run
