@@ -8,7 +8,7 @@ Rock wins against scissors, paper wins against rock, and scissors wins against p
 ### **_NOTE:_**  If you wan to see full commit history please do refer [rock-paper-scissors](https://github.com/Aleksandyr/rock-paper-scissors).
 
 ## Tech stack
-**`React`** | **`Typescript`** | **`Redux-Toolkit`** | **`Redux-saga`** | **`Express`** | **`Sqlite`**
+**`React`** | **`Typescript`** | **`Redux-Toolkit`** | **`Redux-saga`** | **`Nodejs`** | **`Express`** | **`Sqlite`** | **`Sequelize`**
 ## How to run
 1. run `yarn install` on root directory
 2. run `yarn start` 
